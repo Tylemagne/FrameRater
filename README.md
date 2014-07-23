@@ -10,3 +10,4 @@ Main Features
 * Large selection of pre-made looping "scenes"
 * Ability to split or quad individual sessions, each with their own selectable scenes and maximum framerate
 * Ability to "shuffle" framerates on a single scene
+* Standalone
