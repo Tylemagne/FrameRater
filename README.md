@@ -16,6 +16,7 @@ Main Features
 
 Progress
 ==========
-* Windows port: 1%
-* Linux port: 0%
-* OSX port: 0%
+* Windows port 1.0: 1%
+* Linux port 1.0: 0%
+* OSX port 1.0: 0%
+* Concept: 50%
