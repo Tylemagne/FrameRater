@@ -12,7 +12,7 @@ Main Features
 * Ability to split-screen and have multiple simultaneous instances of the same scene running at different framerates
 * Ability to cycle, split, and 'lerp' framerates
 * Portable - no registry tinkering, FrameRater will be able to run from removable media without being installed to the machine
-* 
+* 'Simple' scenes for even the weakest of machines, 'benchmark' scenes that intentionally stress the computer
 
 Progress
 ==========
