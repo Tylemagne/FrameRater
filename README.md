@@ -8,6 +8,6 @@ Main Features
 ==========
 * Cross-platform: Compatible with Linux, Windows, and OSX
 * Large selection of pre-made looping "scenes"
-* Ability to split or quad individual sessions, each with their own selectable scenes and maximum framerate
-* Ability to "shuffle" framerates on a single scene
-* Standalone
+* User-created scenes
+* Ability to split-screen and have multiple simultaneous instances of the same scene running at different framerates
+* Ability to cycle, split, and 'lerp' framerates
