@@ -19,4 +19,5 @@ Progress
 * Windows port 1.0: 1%
 * Linux port 1.0: 0%
 * OSX port 1.0: 0%
+* HTML5 port 1.0: 0%
 * Concept: 50%
