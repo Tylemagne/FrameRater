@@ -13,6 +13,7 @@ Main Features
 * Ability to cycle, split, and 'lerp' framerates
 * Portable - no registry tinkering, FrameRater will be able to run from removable media without being installed to the machine
 * 'Simple' scenes for even the weakest of machines, 'benchmark' scenes that intentionally stress the computer
+* Ability to simulate stress. This would randomly add a handful of random milliseconds to given frames. This feature would be useful for demonstrating the difference between a simple framerate cap and an actual struggle to reach and maintain a certain framerate.
 
 Progress
 ==========
